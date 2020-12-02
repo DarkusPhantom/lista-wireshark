@@ -1,4 +1,4 @@
-No.	Time			Source		Destination	Protocol	Length	Info
+No.	Time		Source		Destination	Protocol	Length		Info
 1	0.000000000	91.189.88.178	192.168.137.49	TCP		1424		[TCP segment of a reassembled PDU]
 2	0.001122188	192.168.137.49	91.189.88.178	TCP		78		37274 → 443 [ACK] Seq=1 Ack=4294937421 Win=7078 Len=0 TSval=4279162992 TSecr=471092063 SLE=4294938779 SRE=1359
 3	0.013819416	91.189.88.178	192.168.137.49	TCP		1424		[TCP segment of a reassembled PDU]
